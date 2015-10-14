@@ -4,7 +4,7 @@
 Break in the first frame may be decided on the flip of a coin if both players agree, or by "closest to the cushion".
 For games with more than one frame, the break alternates between the players.
 
-### Closest to the cushion
+#### Closest to the cushion
 
 Each player plays the cue ball from baulk, rebounding off the bottom cushion. The player who gets closest to the baulk cushion may choose who breaks.
 
