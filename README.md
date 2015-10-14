@@ -16,8 +16,8 @@ If the player pots the black, the frame is reracked.
 
 If the player pots one or more normal balls, he/she must choose spots or stripes.
 
-## Fair shot
-A fair shot is one where
+## Legal shot
+A legal shot is one where
  - The cue ball hits an object ball 
  - And then either the cue ball or the object ball hits a cushion or the object ball is potted
 
@@ -28,7 +28,7 @@ If the player cannot see both sides of any of his object balls, then he/she is s
  - Missing all the balls
  - Hitting the black before clearing the other balls
  - Potting the cue ball
- - Failing to make a fair shot
+ - Failing to make a legal shot
  - Touching the table holding any food or drink
  - Not playing the cue ball forward after placing the cue ball in baulk
 
