@@ -8,13 +8,19 @@ For games with more than one frame, the break alternates between the players.
 
 Each player plays the cue ball from baulk, rebounding off the bottom cushion. The player who gets closest to the baulk cushion may choose who breaks.
 
+### Foul break
+
 If the white is potted off the break, then play switches to the other player but he/she only has one shot.
 If the white leaves the table completely, two shots are awarded to the other player.
 If less than four balls hit a cushion and no balls are potted, two shots are awarded to the other player.
 
 If the player pots the black, the frame is reracked.
 
+### Open table
+
 If the player pots one or more normal balls, he/she must choose spots or stripes.
+
+The table is "open" until one player legally pots a ball. After this he/she must choose
 
 ## Legal shot
 A legal shot is one where
