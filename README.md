@@ -31,7 +31,7 @@ A legal shot is one where
  - The cue ball hits an object ball 
  - And then either the cue ball or the object ball hits a cushion or the object ball is potted
 
-## Snookered
+## Snookers
 A player is snookered if he/she cannot hit any of their own balls without using a cushion.
 
 The fair shot requirement is not enforced.
