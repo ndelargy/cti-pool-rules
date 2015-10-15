@@ -18,11 +18,13 @@ If less than four balls hit a cushion and no balls are potted, two shots are awa
 
 If the player pots the black, the frame is reracked.
 
+If the player pots one or more normal balls off the break, he/she must choose spots or stripes.
+
 ### Open table
 
-If the player pots one or more normal balls, he/she must choose spots or stripes.
+The table is open until one player legally pots a ball.  At this point the player has elected to play that set of balls. i.e. if the player pots a stripe, then that player is on stripes, the opponent is on spots.
 
-The table is "open" until one player legally pots a ball. After this he/she must choose
+Potting a spot and a stripe other than off the break is a foul shot.
 
 ## Legal shot
 A legal shot is one where
@@ -38,7 +40,9 @@ If the player cannot see both sides of any of his object balls, then he/she is s
  - Potting the cue ball
  - Failing to make a legal shot
  - Touching the table holding any food or drink
+ - Placing food or drink on the table
  - Not playing the cue ball forward after placing the cue ball in baulk
+ - Potting a spot and a stripe in one shot, (other than off the break).
 
 After commiting a foul, the other player has two visits.  Unless he/she is on the black
 
