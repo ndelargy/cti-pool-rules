@@ -40,11 +40,13 @@ If the player cannot see both sides of any of his object balls, then he/she is s
  - Hitting the black before clearing the other balls
  - Potting the cue ball
  - Failing to make a legal shot
- - Touching the table holding any food or drink
- - Placing food or drink on the table
  - Not playing the cue ball forward after placing the cue ball in baulk
  - Potting a spot and a stripe in one shot, (other than off the break)
+  
+*These fouls are less well known, but are intended to prevent damage to the table or to the venue*
  - Deliberate jump shots are illegal
+ - Touching the table holding any food or drink
+ - Placing food or drink on any part of the table
 
 After commiting a foul, the other player has two visits.  Unless he/she is on the black
 
