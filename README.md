@@ -16,7 +16,7 @@ If the white leaves the table completely, two shots are awarded to the other pla
 
 If less than four balls hit a cushion and no balls are potted, two shots are awarded to the other player.
 
-If the player pots the black, the frame is reracked.
+If the player pots the black, the frame is reracked and the same player breaks again.
 
 If the player pots one or more normal balls off the break, he/she must choose spots or stripes.
 
@@ -36,13 +36,15 @@ If the player cannot see both sides of any of his object balls, then he/she is s
 ## Fouls
  - Hitting the opponents ball
  - Missing all the balls
+ - Any ball leaves the table
  - Hitting the black before clearing the other balls
  - Potting the cue ball
  - Failing to make a legal shot
  - Touching the table holding any food or drink
  - Placing food or drink on the table
  - Not playing the cue ball forward after placing the cue ball in baulk
- - Potting a spot and a stripe in one shot, (other than off the break).
+ - Potting a spot and a stripe in one shot, (other than off the break)
+ - Deliberate jump shots are illegal
 
 After commiting a foul, the other player has two visits.  Unless he/she is on the black
 
@@ -52,6 +54,17 @@ If the player places the ball in baulk, he/she must play the ball forward.
 
 A player may deliberately foul, the normal penalty will apply.
 
-Except for where the rules above disagree, all other rules from the World Eight Ball Pool Federation Rules Unabridged Version Issued January 2009 apply. http://www.epa.org.uk/wrules.php
+## Replacing balls
 
+Any balls leaving the table which has not been potted will be re spotted as near as possible to the black spot in a direct line between the spot and the centre point of the cushion that lies the greatest distance from the Baulk Line.
+
+## Balls falling without being hit
+
+Any ball that falls into a pocket at any time, without being struck, shall be replaced by the Referee to its original position, no penalty. 
+
+## Rules not listed above
+
+Most of these rules summarised are the same as the 2009 world rules, the exceptions are playing the cue ball forward from baulk, and single shot on the black.
+
+Except for where the rules above disagree, all other rules from the World Eight Ball Pool Federation Rules Unabridged Version Issued January 2009 apply. http://www.epa.org.uk/wrules.php
 
