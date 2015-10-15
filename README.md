@@ -31,7 +31,10 @@ A legal shot is one where
  - The cue ball hits an object ball 
  - And then either the cue ball or the object ball hits a cushion or the object ball is potted
 
-If the player cannot see both sides of any of his object balls, then he/she is snookered and the fair shot requirement is not enforced.
+## Snookered
+A player is snookered if he/she cannot hit any of their own balls without using a cushion.
+
+The fair shot requirement is not enforced.
 
 ## Fouls
  - Hitting the opponents ball
@@ -50,10 +53,21 @@ If the player cannot see both sides of any of his object balls, then he/she is s
 
 After commiting a foul, the other player has two visits.  Unless he/she is on the black
 
-If the white is potted or the player is snookered he may opt to place the cue ball anywhere in baulk.
+If the white is potted place the cue ball anywhere in baulk.
+
+If the player is snookered he/she may opt to...
+ - place the white in baulk
+ - use the first shot to play in to space
+ - Play an opponents ball or play the black ball
+
+Players may not pot an opponents ball or the black on the first of two shots.
+
+Players may not play an opponents ball or the black unless snookered.
 
 If the player places the ball in baulk, he/she must play the ball forward.
 
+
+## Deliberate foul
 A player may deliberately foul, the normal penalty will apply.
 
 ## Replacing balls
