@@ -11,7 +11,9 @@ Each player plays the cue ball from baulk, rebounding off the bottom cushion. Th
 ### Foul break
 
 If the white is potted off the break, then play switches to the other player but he/she only has one shot.
+
 If the white leaves the table completely, two shots are awarded to the other player.
+
 If less than four balls hit a cushion and no balls are potted, two shots are awarded to the other player.
 
 If the player pots the black, the frame is reracked.
@@ -39,7 +41,9 @@ If the player cannot see both sides of any of his object balls, then he/she is s
  - Not playing the cue ball forward after placing the cue ball in baulk
 
 After commiting a foul, the other player has two visits.  Unless he/she is on the black
+
 If the white is potted or the player is snookered he may opt to place the cue ball anywhere in baulk.
+
 If the player places the ball in baulk, he/she must play the ball forward.
 
 A player may deliberately foul, the normal penalty will apply.
