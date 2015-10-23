@@ -8,6 +8,8 @@ Balls should be racked something like this:
 
 <img src="http://www.wpa-pool.com/images/web/main/eight_ball_rack.gif" />
 
+Depending on where the spot is, either the lead ball or the black must be centred on the spot.
+
 #### Closest to the cushion
 
 Each player plays the cue ball from baulk, rebounding off the bottom cushion. The player who gets closest to the baulk cushion may choose who breaks.
