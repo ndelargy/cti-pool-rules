@@ -51,7 +51,9 @@ The fair shot requirement is not enforced.
  - Touching the table holding any food or drink
  - Placing food or drink on any part of the table
 
-After commiting a foul, the other player has two visits.  Unless he/she is on the black
+After commiting a foul, the other player has two visits.  Unless he/she is on the black.
+
+Two shots do not carry, so if the player pots on his/her first shot play will switch to the opponent as usual.
 
 If the white is potted place the cue ball anywhere in baulk.
 
