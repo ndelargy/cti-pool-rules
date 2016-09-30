@@ -32,6 +32,8 @@ The table is open until one player legally pots a ball.  At this point the playe
 
 Potting a spot and a stripe other than off the break is a foul shot.
 
+While the table is open you may play a spot and pot a stripe or vice versa.
+
 ## Legal shot
 A legal shot is one where
  - The cue ball hits an object ball 
