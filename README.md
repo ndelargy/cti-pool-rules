@@ -6,7 +6,7 @@ For games with more than one frame, the break alternates between the players.
 
 Balls should be racked something like this:
 
-<img src="http://www.wpa-pool.com/images/web/main/eight_ball_rack.gif" />
+<img src="http://wpapool.co.za/wp-content/uploads/2017/03/screenshot-2.png" />
 
 Depending on where the spot is, either the lead ball or the black must be centred on the spot.
 
